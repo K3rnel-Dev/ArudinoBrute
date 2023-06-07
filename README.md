@@ -1,7 +1,7 @@
 # Arduino BruteForce Script 
 ![Modife-Dev-Name](https://img.shields.io/badge/ModifyRepoDev-K3rnel-yellow)
 <div align="center">
-<img src="https://github.com/K3rnel-Dev/ArudinoBrute/blob/main/screens/screen.png" width='500px' height='500px' alt="ArduinoBrute">
+<img src="https://github.com/K3rnel-Dev/ArudinoBrute/blob/main/screens/scr.png" width='500px' height='500px' alt="ArduinoBrute">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=320&width=500&lines=Arduino+Bruteforce;4X+PINS;ATMEGA+ARDUINO" alt="">
 <hr>
